@@ -2,11 +2,15 @@
   "name": "Essentials",
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL": "https://i.imgur.com/yp26HyT.png",
+  "iconURL": "https://i.imgur.com/7Ff4ely.png",
   "website": "https://altstudio.app",
   "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#6156e2",
-  "featuredApps": [],
+  "featuredApps": [
+    "com.spotify.client",
+    "com.google.ios.youtube"
+  ],
+  "headerURL": "https://i.imgur.com/Zu52JXy.png",
   "apps": [
     {
       "name": "YouTube",
